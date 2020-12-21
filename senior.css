@@ -1,0 +1,22 @@
+@media only screen and (min-width: 480px) {
+    #div1{
+        margin-left: 0rem;
+    }
+    .card{
+        align-items: center;
+    }
+  }
+@media only screen and (min-width: 768px) {
+    #div1{
+        margin-left: 26rem;
+    }
+    #btn{
+        margin-left: 12.8rem;
+    }
+    .card{
+        margin-left: 6.5rem;
+    }
+}
+#text{
+    text-align: center;
+}
