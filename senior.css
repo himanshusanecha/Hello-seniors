@@ -5,6 +5,11 @@
     .card{
         align-items: center;
     }
+    textarea{
+        width: 20rem;
+        height: 1rem;
+        text-align: center;
+    }
   }
 @media only screen and (min-width: 768px) {
     #div1{
@@ -15,6 +20,11 @@
     }
     .card{
         margin-left: 6.5rem;
+    }
+    textarea{
+        width: 32rem;
+        height: 2rem;
+        text-align: center;
     }
 }
 #text{
