@@ -1,0 +1,3 @@
+## ~~Hello~~ Bye, Seniors...
+
+This repo hosts the landing page created for Aabhar 2020 - Masquerade - the Drama Club's Farewell.
